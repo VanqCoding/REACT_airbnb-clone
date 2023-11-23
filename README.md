@@ -1,6 +1,5 @@
 # Airbnb Experiences Clone with React
 
-![Project Image](Screenshot.png)
 <img src="Screenshot.png" alt="Project Image" width="300"/>
 
 ## Description
