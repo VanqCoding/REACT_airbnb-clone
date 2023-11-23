@@ -1,6 +1,6 @@
 # Airbnb Experiences Clone with React
 
-<img src="Screenshot.png" alt="Project Image" width="600"/>
+<img src="Screenshot.png" alt="Project Image" width="500"/>
 
 ## Description
 
