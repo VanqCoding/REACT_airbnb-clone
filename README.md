@@ -16,7 +16,7 @@ This project is a simplified clone of Airbnb Experiences, built using React. It 
 ## Installation
 
 1. Clone the repository:
-   git clone https://github.com/vanqcoding/react_aribnb-clone.git
+   git clone [https://github.com/vanqcoding/react_aribnb-clone](https://github.com/VanqCoding/REACT_airbnb-clone/tree/main).git
 
 2. Navigate to the project directory:
    cd airbnb-experiences-clone
