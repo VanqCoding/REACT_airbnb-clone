@@ -4,7 +4,7 @@
 
 ## Description
 
-This project is a simplified clone of Airbnb Experiences, built using React. It allows users to explore and discover various experiences offered by hosts. Users can view details of each experience.
+This project is a simplified static clone of Airbnb Experiences, built using React.
 
 ## Table of Contents
 
